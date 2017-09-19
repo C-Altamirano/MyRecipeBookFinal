@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyRecipeBook</string>
+    <string name="mainList">Lista</string>
+    <string name="searchItem">Buscar</string>
+    <string name="favoriteItem">Favoritos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buscar_receta">Buscar receta</string>
+    <string name="buscar">Buscar</string>
+</resources>
